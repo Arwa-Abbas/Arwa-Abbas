@@ -4,7 +4,7 @@
 - 🎓 I’m a CS student who is passionate about **Data Science** and **Analytics**.  
 - 🧠 Currently exploring **AI/ML**, **Computer Vision**, **Data Visualization**, and the fascinating world of intelligent systems.  
 - 🌐 I also know **Frontend Web Development** and love bringing ideas to life through code.  
-- 🎮 I’m really also into **2D & 3D Indie Game Development** and want to work with tools like **Blender**, **Unity**, **Unreal Engine**, and **Godot** in the future.
+- 🎮 I’m also really into **2D & 3D Indie Game Development** and want to work with tools like **Blender**, **Unity**, **Unreal Engine**, and **Godot** in the future.
 ---
 
 
