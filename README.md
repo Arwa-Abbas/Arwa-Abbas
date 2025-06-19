@@ -1,11 +1,13 @@
-## Hiii, I'm Arwa 👾💫
+## Hiii, I'm Arwa 👾💫  
+---
 
--🎓 I’m a CS student who is passionate in **Data Science** and **Analytics**.
--🧠 Currently exploring **AI/ML**, **Computer Vision**,**Data Visualization** etc and the fascinating world of intelligent systems.
--🌐 I also know **Frontend Web Development** and love bringing ideas to life through code.
--🎮 I’m also really into **2D & 3D Indie Game Development** and want to use tools like **Blender**, **Unity**, **Unreal Engine**, and **Godot** in future. 
-
+- 🎓 I’m a CS student who is passionate about **Data Science** and **Analytics**.  
+- 🧠 Currently exploring **AI/ML**, **Computer Vision**, **Data Visualization**, and the fascinating world of intelligent systems.  
+- 🌐 I also know **Frontend Web Development** and love bringing ideas to life through code.  
+- 🎮 I’m really into **2D & 3D Indie Game Development** and want to work with tools like **Blender**, **Unity**, **Unreal Engine**, and **Godot** in the future.
+  
 *"I believe creativity and logic should go side by side ,that’s where the magic happens."*
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arwa-abbas-kerani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arwa-abbas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arwaabbaskerani@gmail.com) 
