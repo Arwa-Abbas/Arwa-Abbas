@@ -4,9 +4,10 @@
 - 🎓 I’m a CS student who is passionate about **Data Science** and **Analytics**.  
 - 🧠 Currently exploring **AI/ML**, **Computer Vision**, **Data Visualization**, and the fascinating world of intelligent systems.  
 - 🌐 I also know **Frontend Web Development** and love bringing ideas to life through code.  
-- 🎮 I’m really into **2D & 3D Indie Game Development** and want to work with tools like **Blender**, **Unity**, **Unreal Engine**, and **Godot** in the future.
+- 🎮 I’m really also into **2D & 3D Indie Game Development** and want to work with tools like **Blender**, **Unity**, **Unreal Engine**, and **Godot** in the future.
   
-*"I believe creativity and logic should go side by side ,that’s where the magic happens."*
+<br>
+*I believe creativity and logic should go side by side — that’s where the magic happens.*
 ---
 
 ## 🌐 Socials:
