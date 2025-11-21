@@ -14,9 +14,3 @@ Hiii, I'm Arwa 👾💫  <br><br>- 🎓 I’m a CS student who is passionate abo
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arwa-Abbas&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arwa-Abbas&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
