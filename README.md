@@ -2,10 +2,6 @@
 
 <h3 align="center">CS Student | AI • Data Science • Full Stack</h3>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Arwa-Abbas&icon=0&color=10" />
-</p>
-
 # 💫 About Me:
 🎓 I’m a CS student passionate about **Data Science, Analytics, and AI**.  <br>🧠 Currently exploring **AI/ML, Computer Vision, Data Visualization**, and intelligent systems.  <br>🌐 I also do **Full Stack Web Development** and love bringing ideas to life through code.  <br>🎮 I’m into **2D & 3D Indie Game Development** and plan to work with **Unity, Unreal Engine, and Godot**.
 
