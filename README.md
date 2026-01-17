@@ -1,11 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:1E3A8A&height=220&section=header&text=💫%20Hi!!!,%20I'm%20Arwa%20👾&fontSize=38&fontAlignY=40&animation=fadeIn)
 
-<h3 align="center">CS Student | AI • Data Science • Full Stack</h3>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Arwa-Abbas&icon=0&color=10" />
-</p>
-
 ---
 
 ## 🌟 About Me
