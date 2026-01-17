@@ -1,7 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Arwa%20👾&fontSize=40&fontAlignY=35&animation=fadeIn)
-
-<h1 align="center">💫 Hi!!!, I'm Arwa 👾</h1>
-<h3 align="center">CS Student | AI • Data Science • Full Stack </h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:1E3A8A&height=260&section=header&text=💫%20Hi!!!,%20I'm%20Arwa%20👾%0ACS%20Student%20%7C%20AI%20•%20Data%20Science%20•%20Full%20Stack&fontSize=36&fontAlignY=45&animation=fadeIn)
+>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Arwa-Abbas&icon=0&color=10" />
