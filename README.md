@@ -1,4 +1,4 @@
-<p align="center"> <img src="assets/worker_cat.gif" width="100%" height="320" alt="Pixel Animation"/> </p>
+<p align="center"> <img src="assets/worker_cat.gif" width="100%" height="370" alt="Pixel Animation"/> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
