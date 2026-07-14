@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=80&section=header"/>
-</p>
-
 <p align="center"> <img src="assets/pixel-room.gif" width="90%" height="360" alt="Pixel Animation"/> </p>
 
 <p align="center">
