@@ -10,7 +10,6 @@
 
 <h2 align="center">🌸 About Me 🌸</h2>
 
-```markdown
 <table align="center">
 <tr>
 
@@ -48,7 +47,6 @@
 
 </tr>
 </table>
-```
   
  <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
