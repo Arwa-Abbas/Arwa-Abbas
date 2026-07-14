@@ -64,8 +64,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Arwa-Abbas&color=ff69b4&style=for-the-badge"/>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
 </p>
@@ -95,6 +93,26 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Arwa-Abbas&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
+</p>
+
+<h2 align="center">🌸 My GitAnimals 🌸</h2>
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Arwa-Abbas&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/Arwa-Abbas"
+      width="700"
+      alt="GitAnimals Farm"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=footer"/>
 </p>
 
 <p align="center">
