@@ -2,16 +2,16 @@
 
 ---
 
-## 🌟 About Me
+<h2 align="center">🌸Connect with Me🌸</h2>
 
-🎓 I’m a CS student passionate about **Data Science, Analytics, and AI**.  
-🧠 Currently exploring **AI/ML, Computer Vision, Data Visualization**, and intelligent systems.  
-🌐 I also do **Full Stack Web Development** and love bringing ideas to life through code.  
-🎮 I’m into **2D & 3D Indie Game Development** and plan to work with **Unity, Unreal Engine, and Godot**.
+ Computer Science student focused on building intelligent, scalable, and impactful software.
+- Developing AI-powered applications with a focus on **Agentic AI**, **Machine Learning**, and **Computer Vision**.
+- Designing data-driven solutions through **Data Engineering**, analytics, and efficient data pipelines.
+- Building modern, responsive **Full-Stack Web Applications** using contemporary frameworks and technologies.
 
 ---
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">🌸Connect with Me🌸</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arwa-abbas-kerani-3228ab346/">
@@ -25,36 +25,23 @@
 
 ---
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">🌸Tech Stack🌸</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js&theme=dark" />
 </p>
-
 <p align="center">──────────── ✦ ────────────</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,dotnet,fastapi,flask&theme=dark" />
 </p>
-
 <p align="center">──────────── ✦ ────────────</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
 </p>
-
 <p align="center">──────────── ✦ ────────────</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,docker&theme=dark" />
 </p>
-
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Arwa-Abbas&theme=aura&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Arwa-Abbas&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arwa-Abbas&theme=aura&layout=compact&hide_border=false)
 
 ---
 
