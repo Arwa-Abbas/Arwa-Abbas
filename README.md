@@ -100,7 +100,21 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arwa-Abbas/Arwa-Abbas/output/pacman.svg">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Arwa-Abbas/Arwa-Abbas/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Arwa-Abbas/Arwa-Abbas/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/Arwa-Abbas/Arwa-Abbas/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <p align="center">
