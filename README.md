@@ -2,13 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=80&section=header"/>
 </p>
 
-<p align="center">
-  <img src="assets/pixel-room.gif" width="900"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=80&section=footer"/>
-</p>
+<p align="center"> <img src="assets/pixel-room.gif" width="90%" height="360" alt="Pixel Animation"/> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
