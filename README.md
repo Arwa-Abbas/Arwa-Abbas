@@ -19,42 +19,25 @@
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center"> Tech Stack</h2>
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js&theme=dark" />
 </p>
 
-### 🌐 Web Technologies
+<p align="center">──────────── ✦ ────────────</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,fastapi,flask,dotnet&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,fastapi,flask,dotnet,mongodb,postgres,sqlite&theme=dark" />
 </p>
 
-### 🗄️ Databases
+<p align="center">──────────── ✦ ────────────</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,docker&theme=dark" />
 </p>
 
-### 🤖 AI & Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=dark" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-</p>
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Arwa-Abbas&theme=aura&hide_border=false)
