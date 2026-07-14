@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">🌸Connect with Me🌸</h2>
+<h2 align="center">🌸About Me🌸</h2>
 
  Computer Science student focused on building intelligent, scalable, and impactful software.
 - Developing AI-powered applications with a focus on **Agentic AI**, **Machine Learning**, and **Computer Vision**.
