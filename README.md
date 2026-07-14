@@ -95,6 +95,13 @@
 <img src="https://streak-stats.demolab.com?user=Arwa-Abbas&theme=radical&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arwa-Abbas/Arwa-Abbas/output/pacman.svg">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
