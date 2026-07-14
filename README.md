@@ -14,19 +14,19 @@
 <tr>
 
 <td width="33%" valign="top">
-
-###  AI / ML
+  
+<h3 align="center">✦ 𝓐𝓘 / 𝓜𝓛 ✦</h3>
 
 - Exploring Agentic AI & AI Automation
 - Deep Learning & Development ML Models
-- Passionate about Computer Vision solutions
+- Passionate about Computer Vision
 - **Working with** NLP & RAG
 
 </td>
 
 <td width="33%" valign="top">
 
-### Data & Cloud
+<h3 align="center">✦ 𝓓𝓪𝓽𝓪 & 𝓒𝓵𝓸𝓾𝓭 ✦</h3>
 
 - Exploring Cloud & Data Engineering
 - Building Data-Driven Solutions & Analytics
@@ -36,7 +36,7 @@
 
 <td width="33%" valign="top">
 
-### 🌐 Full-Stack
+<h3 align="center">✦ 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 ✦</h3>
 
 - Building Responsive Frontends 
 - Developing Scalable Backends
@@ -85,6 +85,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arwa-Abbas&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arwa-Abbas&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
