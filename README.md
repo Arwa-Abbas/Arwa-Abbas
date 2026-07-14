@@ -1,18 +1,54 @@
 <p align="center"> <img src="assets/worker_cat.gif" width="90%" height="360" alt="Pixel Animation"/> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1500&color=FF69B4&center=true&vCenter=true&width=1100&lines=Hii!+I'm+Arwa;AI%2FML+Engineer+%7C+Data+Science+%26+Engineering+Enthusiast+%7C+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=1500&color=FF69B4&center=true&vCenter=true&width=1100&lines=Hii!+I'm+Arwa;AI%2FML+Engineer+%7C+Data+Engineering+Enthusiast+%7C+Full-Stack+Developer" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
 </p>
+
 <h2 align="center">🌸 About Me 🌸</h2>
 
- Computer Science student focused on building intelligent, scalable, and impactful software.
-- Developing AI-powered applications with a focus on **Agentic AI**, **Machine Learning**, and **Computer Vision**.
-- Designing data-driven solutions through **Data Engineering**, analytics, and efficient data pipelines.
-- Building modern, responsive **Full-Stack Web Applications** using contemporary frameworks and technologies.
+```markdown
+<table align="center">
+<tr>
+
+<td width="33%" valign="top">
+
+###  AI / ML
+
+- Exploring Agentic AI & AI Automation
+- Deep Learning & Development ML Models
+- Passionate about Computer Vision solutions
+- **Working with** NLP & RAG
+
+</td>
+
+<td width="33%" valign="top">
+
+### Data & Cloud
+
+- Exploring Cloud & Data Engineering
+- Building Data-Driven Solutions & Analytics
+- Designing Data Pipelines & Workflows/Orchestration
+- Learning Data Warehousing & Lakes
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Full-Stack
+
+- Building Responsive Frontends 
+- Developing Scalable Backends
+- Designing RESTful APIs & Database Architectures
+- Exploring Systems Design
+
+</td>
+
+</tr>
+</table>
+```
   
  <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
