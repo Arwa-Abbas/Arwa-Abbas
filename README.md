@@ -1,7 +1,7 @@
 <p align="center"> <img src="assets/worker_cat.gif" width="90%" height="360" alt="Pixel Animation"/> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&pause=1200&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Arwa;AI%2FML+Engineer;Data+Engineering+Enthusiast;Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&pause=1500&color=FF69B4&center=true&vCenter=true&width=900&lines=Hii!+I'm+Arwa;AI%2FML+Engineer+%7C+Data+Science & Engineering+Enthusiast+%7C+Full-Stack+Developer" />
 </p>
 
 <p align="center">
