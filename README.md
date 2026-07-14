@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩-ff69b4?style=flat-square" />
 </p>
-
+<p align="center">
+  <img src="YOUR_PINK_DIVIDER.svg" height="18" />
+</p>
 <h2 align="center">🌸 About Me 🌸</h2>
 
  Computer Science student focused on building intelligent, scalable, and impactful software.
