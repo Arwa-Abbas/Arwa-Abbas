@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">🌸About Me🌸</h2>
+<h2 align="center">🌸 About Me 🌸</h2>
 
  Computer Science student focused on building intelligent, scalable, and impactful software.
 - Developing AI-powered applications with a focus on **Agentic AI**, **Machine Learning**, and **Computer Vision**.
@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">🌸Connect with Me🌸</h2>
+<h2 align="center">🌸 Connect with Me 🌸</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arwa-abbas-kerani-3228ab346/">
@@ -24,25 +24,24 @@
 </p>
 
 ---
-
-<h2 align="center">🌸Tech Stack🌸</h2>
-
+<h2 align="center">🌸 Tech Stack 🌸</h2>
+<p align="center">──────────── ✦ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 ✦ ────────────</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js&theme=dark" />
 </p>
-<p align="center">──────────── ✦ ────────────</p>
+<p align="center">──────────── ✦ 𝓦𝓮𝓫 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼 ✦ ────────────</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,dotnet,fastapi,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,dotnet,fastapi,flask&theme=dark" />
 </p>
-<p align="center">──────────── ✦ ────────────</p>
+<p align="center">──────────── ✦ 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼 & 𝓣𝓸𝓸𝓵𝓼 ✦ ────────────</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker&theme=dark" />
 </p>
-<p align="center">──────────── ✦ ────────────</p>
+<p align="center">──────────── ✦ 𝓐𝓘/𝓜𝓛 & 𝓓𝓪𝓽𝓪 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 ✦ ────────────</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" />
 </p>
-
 ---
 
 
