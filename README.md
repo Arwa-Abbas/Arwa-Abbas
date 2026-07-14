@@ -1,23 +1,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:1E3A8A&height=220&section=header&text=💫%20Hi!!!,%20I'm%20Arwa%20👾&fontSize=38&fontAlignY=40&animation=fadeIn)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
 </p>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%">
-</p>
-
 <h2 align="center">🌸 About Me 🌸</h2>
 
  Computer Science student focused on building intelligent, scalable, and impactful software.
 - Developing AI-powered applications with a focus on **Agentic AI**, **Machine Learning**, and **Computer Vision**.
 - Designing data-driven solutions through **Data Engineering**, analytics, and efficient data pipelines.
 - Building modern, responsive **Full-Stack Web Applications** using contemporary frameworks and technologies.
-- 
----
+  
+ <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
+</p>
 
 <h2 align="center">🌸 Connect with Me 🌸</h2>
 
@@ -31,7 +26,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
+</p>
 
 <h2 align="center">🌸 Tech Stack 🌸</h2>
 <p align="center">──────────── ✦ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 ✦ ────────────</p>
@@ -53,6 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
 </p>
 
