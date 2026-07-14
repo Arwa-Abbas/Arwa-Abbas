@@ -97,5 +97,19 @@
 </p>
 
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=Arwa-Abbas&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Arwa-Abbas&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arwa-Abbas&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Arwa-Abbas&color=ff69b4&style=for-the-badge"/>
+
+<p align="center">
   <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
 </p>
