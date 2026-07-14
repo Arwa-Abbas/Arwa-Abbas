@@ -64,6 +64,8 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Arwa-Abbas&color=ff69b4&style=for-the-badge"/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header"/>
 </p>
@@ -92,23 +94,8 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arwa-Abbas&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arwa-Abbas&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Arwa-Abbas&theme=radical&hide_border=true"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arwa-Abbas&theme=radical&no-frame=true&margin-w=15"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arwa-Abbas&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Arwa-Abbas&color=ff69b4&style=for-the-badge"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩｡°✩_⋆｡°✩_⋆｡°✩⋆｡°-ff69b4?style=flat-square" />
