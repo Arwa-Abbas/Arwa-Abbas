@@ -33,13 +33,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,dotnet,fastapi,flask&theme=dark" />
 </p>
-<p align="center">──────────── ✦ 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼 & 𝓣𝓸𝓸𝓵𝓼 ✦ ────────────</p>
+<p align="center">──────────── ✦ 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼 ✦ ────────────</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
 </p>
 <p align="center">──────────── ✦ 𝓐𝓘/𝓜𝓛 & 𝓓𝓪𝓽𝓪 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 ✦ ────────────</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,docker&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" />
 </p>
 ---
