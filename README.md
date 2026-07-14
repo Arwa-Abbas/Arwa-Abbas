@@ -28,7 +28,13 @@
 <p align="center">──────────── ✦ ────────────</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,fastapi,flask,dotnet,mongodb,postgres,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,dotnet,fastapi,flask&theme=dark" />
+</p>
+
+<p align="center">──────────── ✦ ────────────</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
 </p>
 
 <p align="center">──────────── ✦ ────────────</p>
