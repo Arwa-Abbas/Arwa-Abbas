@@ -18,9 +18,9 @@
 <h3 align="center">✦ 𝓐𝓘 / 𝓜𝓛 ✦</h3>
 
 - Exploring Agentic AI & AI Automation
-- Deep Learning & Development ML Models
+- Deep Learning & Developing ML Models
 - Passionate about Computer Vision
-- **Working with** NLP & RAG
+- Working with NLP & RAG
 
 </td>
 
