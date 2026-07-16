@@ -75,7 +75,7 @@
 </p>
 <p align="center">──────────── ✦ 𝓦𝓮𝓫 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼 ✦ ────────────</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,tailwind,dotnet,fastapi,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,dotnet,fastapi,flask&theme=dark" />
 </p>
 <p align="center">──────────── ✦ 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼 & 𝓣𝓸𝓸𝓵𝓼 ✦ ────────────</p>
 <p align="center">
